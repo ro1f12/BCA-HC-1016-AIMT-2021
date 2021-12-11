@@ -2,9 +2,9 @@
 *	this file shows the structure of a C-program file 
 */
 
-#include<stdio.h>					//<-------system defined header file(s)
-#include"custom.h"					//<-------user defined header  file(s)
-#define SAMPLE_MACRO value			//<-------macros
+#include<stdio.h>					//<----system defined header file(s) 
+#include"custom.h"					//<----user defined header  file(s)
+#define SAMPLE_MACRO value			//<----macros
 
 void sample_function(int arg1);		//<-------function declaration(s)
 
